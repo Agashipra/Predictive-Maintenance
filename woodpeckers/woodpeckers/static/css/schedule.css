@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+.container {
+    margin-top: 50px;
+}
+.schedule-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#calendar {
+    margin-top: 20px;
+}

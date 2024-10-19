@@ -1,0 +1,18 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: url('../assets/result-bg.png') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.main{
+    margin: 200px auto;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
